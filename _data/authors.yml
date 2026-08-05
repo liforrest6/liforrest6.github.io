@@ -1,13 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
+Forrest Li:
+  name        : "Forrest Li"
+  uri         : "https://liforrest6.github.io"
   email       : "name@name.com"
-  bio         : "This is the first name."
+  bio         : "Yes this is me"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "liforrest6"
+  # google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
