@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2025-NAPB-envgwas
 venue: "National Association of Plant Breeding Annual Meeting"
-date: 2025-05
+date: 2025-05-15
 location: "Kona, HI, USA"
 ---
 
