@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-bapg-envgwas
 venue: "Bay Area Population Genetics Confernce"
-date: 2024-11-15
+date: 2024-11
 location: "Berkeley, CA, USA"
 ---
 

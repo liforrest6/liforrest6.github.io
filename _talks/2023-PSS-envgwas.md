@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-PSS-envgwas
 venue: "UC Davis Plant Sciences Symposium"
-date: 2023-05-24
+date: 2023-05
 location: "Davis, CA, USA"
 ---

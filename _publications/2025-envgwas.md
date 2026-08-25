@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-envgwas
 excerpt: 'Identifying climate-adaptive variation in seed banks'
-date: 2025-06-06
+date: 2025-06
 venue: 'PLOS Genetics'
 paperurl: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011714"
 citation: 'Li, Forrest, et al. “Environmental Data Provide Marginal Benefit for Predicting Climate Adaptation.” PLOS Genetics, vol. 21, no. 6, June 2025, p. e1011714. PLoS Journals, https://doi.org/10.1371/journal.pgen.1011714.
