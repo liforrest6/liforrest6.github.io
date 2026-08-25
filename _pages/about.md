@@ -11,9 +11,9 @@ You've found me!
 
 While I define myself as a man of many trades (but very notably not a master of any of them), most recently I am a PhD candidate at the University of California, Davis in the Integrative Genetics and Genomics graduate group.
 
-I'm passionate about improving plant resiliency in the face of climate change, in either crops or wild species.  My focus is in plant population and quantitative genetics, specifically on the landscape genomics of maize and gene-environment associations.  I also have a background in high-throughput phenotyping, comparative genomics, gene editing, and more.
+I'm passionate about improving plant resiliency in the face of climate change, in either crops or wild species.  My focus is in plant population and quantitative genetics, specifically on the landscape genomics of maize and gene-environment associations.  I also have a background in high-throughput phenotyping, comparative genomics, gene editing, and more.  On top of my work in academia, I've had industry stints at Corteva and Bayer.
 
-In what little free time I have, I also enjoy hiking, woodworking, weightlifting.
+In what little free time I have, I also enjoy hiking, woodworking, weightlifting, and being insufferable about animation.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
 <!-- 
