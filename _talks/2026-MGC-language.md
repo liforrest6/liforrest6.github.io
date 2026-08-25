@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2026-MGC-language
 venue: "Maize Genetics Conference"
-date: 2026-03
+date: 2026-03-18
 location: "Cologne, Germany"
 ---
 
