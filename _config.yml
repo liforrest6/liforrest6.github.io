@@ -23,7 +23,7 @@ repository               : "liforrest6/liforrest6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "forrest_cimmyt.png"
+  avatar           : "forrest_cimmyt.jpeg"
   name             : "Forrest Li"
   pronouns         : "he/him"  
   bio              : "Plant Population and Quantitative Genetics"
